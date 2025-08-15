@@ -1,0 +1,10 @@
+{
+  "serverIP": "aeroxolserver,aternos.me",
+  "serverPort": 19266,
+  "version": "1.21.1",
+  "botNames": ["gukha", "mojo", "pojav"],
+  "joinMessage": "I'm back",
+  "walkMessage": "i wanna run away",
+  "intervalSeconds": 60,
+  "jumpCount": 5
+}
