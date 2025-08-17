@@ -1,8 +1,8 @@
 {
-  "serverIP": "aeroxolserver,aternos.me",
-  "serverPort": 19266,
+  "serverIP": "157.254.189.55",
+  "serverPort": 25633,
   "version": "1.21.1",
-  "botNames": ["gukha", "mojo", "pojav"],
+  "botNames": ["eksho,duisho,tinsho"],
   "joinMessage": "I'm back",
   "walkMessage": "i wanna run away",
   "intervalSeconds": 60,
